@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Jadual Ustaz Alif",
+  "short_name": "Ustaz Alif",
+  "description": "Aplikasi jadual waktu mengajar peribadi Ustaz Alif.",
+  "lang": "ms",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#E9E2FF",
+  "background_color": "#FFF9F5",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
